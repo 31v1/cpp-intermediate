@@ -16,6 +16,7 @@ with just enough dry humor to acknowledge the unusual nature of the workforce.
 This module introduces structured data handling, multi‑step processing, and more organized program design — all essential for maintaining the base’s systems under extreme Arctic conditions.
 
 🧊🐻 Objectives of the Module
+--
 By the end of cpp‑intermediate, the trainee (bear or human) will be able to:
 
 Process and analyze collections of data
@@ -35,6 +36,7 @@ Simulate small operational subsystems of the base
 All exercises remain fully aligned with the logic used in real technical interviews — the lore is just a thematic wrapper.
 
 🧊🐻 Exercises Overview
+--
 1. Sensor Array Analyzer
 The cosmonaut processes a list of sensor readings using arrays, identifying anomalies and stable values.
 
@@ -66,6 +68,7 @@ Simulate a basic scheduling system using arrays, loops, and functions.
 Integrate everything: arrays, functions, validation, and structures to produce a final operational summary for the base.
 
 🧊🐻 Concepts Practiced
+--
 Arrays (1D and 2D)
 
 Functions (with and without return values)
@@ -85,5 +88,6 @@ Input validation
 Multi‑step processing
 
 🧊🐻 Narrative Continuity
+--
 This module continues the story of the polar bear cosmonaut introduced in cppbasic.
 Now stationed at the Polar Aerospace Operations Base, the operator handles increasingly complex tasks — still with professionalism, still in the cold, still surrounded by machinery that somehow tolerates paws.
