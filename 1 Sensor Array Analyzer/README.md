@@ -1,8 +1,7 @@
 ## Polar Aerospace Operations Base — Systems Routine 12‑A
 This exercise introduces the use of arrays to process multiple sensor readings — a fundamental skill for handling structured data inside the Polar Aerospace Operations Base.
-During this routine, Belyy Ursov reviews a batch of thermal sensor values and classifies each reading according to operational thresholds.
 
-As part of her intermediate training, Belyy Ursov performs a routine analysis of thermal sensor data collected from the northern corridor of the base.
+During this routine, Belyy Ursov performs a routine analysis of thermal sensor data collected from the northern corridor of the base.
 Although the task is straightforward, maintaining accurate classifications is essential for monitoring structural stability in extreme Arctic conditions.
 Her steady, methodical approach ensures that no anomaly goes unnoticed.
 
