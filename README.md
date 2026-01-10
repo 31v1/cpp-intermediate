@@ -89,5 +89,4 @@ Multi‑step processing
 
 🧊🐻 Narrative Continuity
 --
-This module continues the story of the polar bear cosmonaut introduced in cppbasic.
-Now stationed at the Polar Aerospace Operations Base, the operator handles increasingly complex tasks — still with professionalism, still in the cold, still surrounded by machinery that somehow tolerates paws.
+This module continues the story of Belyy Ursov, the polar bear cosmonaut introduced in cppbasic. Now stationed at the Polar Aerospace Operations Base, she handles increasingly complex tasks — always with professionalism, always in the cold, and always surrounded by machinery that somehow tolerates paws.
