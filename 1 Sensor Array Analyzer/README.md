@@ -22,11 +22,6 @@ Looping through collections
 
 Conditional classification
 
-Input validation
-
-Counting categories
-Conditional classification
-
 Counting categories
 
 Basic input validation
