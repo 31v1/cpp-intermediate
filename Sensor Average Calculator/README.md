@@ -2,8 +2,8 @@
 
 🧊 **Polar Aerospace Operations Base — Sensor Calibration Task**
 
-The hangar’s thermal monitoring system requires periodic verification to ensure that temperature sensors remain accurate under extreme Arctic conditions.  
-As part of Belyy Ursov’s intermediate‑level training, she must process a batch of raw sensor readings and compute their average.
+As part of Belyy Ursov’s intermediate‑level training, she must verify the accuracy of the hangar’s thermal sensors.  
+This routine calibration ensures that temperature readings remain reliable under extreme Arctic conditions.
 
 ## 🎯 Objective
 Read **10 temperature values** from the operator and compute the **average temperature** using a helper function.
@@ -17,8 +17,3 @@ Read **10 temperature values** from the operator and compute the **average tempe
 - Arrays  
 - Functions with return values  
 - Basic data processing  
-
-## 🐻 Narrative Context
-This task simulates a routine calibration procedure performed inside the Polar Aerospace Operations Base.  
-Even though the sensors are designed to withstand sub‑zero environments, the operators (including those with paws) must verify their accuracy regularly.
-
