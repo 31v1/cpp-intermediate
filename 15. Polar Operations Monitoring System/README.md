@@ -12,39 +12,39 @@ Build a mini‑project that integrates all previous concepts into a single monit
 🧩 Requirements
 --
 
-    Implement a menu console that allows operators to navigate different subsystems.
+Implement a menu console that allows operators to navigate different subsystems.
 
-    Include modules for:
+Include modules for:
 
-*        Sensor statistics (average, max, sanitization)
+* Sensor statistics (average, max, sanitization)
 
- *       Component registry (add, list, search, sort)
+* Component registry (add, list, search, sort)
 
-*        Access code validation
+* Access code validation
 
-*        Mission checklist verification
+* Mission checklist verification
 
-*        Fuel and conveyor analysis
+* Fuel and conveyor analysis
 
-    Ensure multi‑step processing: data must be validated, processed, and summarized before being displayed.
+Ensure multi‑step processing: data must be validated, processed, and summarized before being displayed.
 
-    Present results in a clear, dashboard‑style format.
+Present results in a clear, dashboard‑style format.
 
 🛠️ Concepts Practiced
 --
 
-*    Arrays (1D and 2D)
+* Arrays (1D and 2D)
 
-*    Structs
+* Structs
 
-*    Functions (with and without return values)
+* Functions (with and without return values)
 
-*    Input validation
+* Input validation
 
-*    Switch statements
+* Switch statements
 
-*    Modular program design
+* Modular program design
 
-*    Multi‑step data processing
+* Multi‑step data processing
 
-*    Statistics and dashboards
+* Statistics and dashboards
