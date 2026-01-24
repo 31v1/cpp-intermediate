@@ -7,20 +7,20 @@ Store components in a struct and sort them by ID.
 
 🧩 Requirements
 
-*Define a struct with fields for component ID and name.
+* Define a struct with fields for component ID and name.
 
-*Store multiple components in an array of structs.
+* Store multiple components in an array of structs.
 
-*Implement a simple sorting algorithm (e.g., bubble or selection) to order by ID.
+* Implement a simple sorting algorithm (e.g., bubble or selection) to order by ID.
 
-*Display the sorted list.
+* Display the sorted list.
 
 🛠️ Concepts Practiced
 
-*Structs
+* Structs
 
-*Arrays of structs
+* Arrays of structs
 
-*Sorting algorithms
+* Sorting algorithms
 
-*Output formatting
+* Output formatting
