@@ -10,17 +10,17 @@ Repeat a given message a specified number of times.
 🧩 Requirements
 --
 
-    Read a string message from input.
+Read a string message from input.
 
-    Read an integer specifying how many times to repeat.
+Read an integer specifying how many times to repeat.
 
-    Print the message exactly that many times.
+Print the message exactly that many times.
 
 🛠️ Concepts Practiced
 --
 
-    Strings
+Strings
 
-    Loops
+Loops
 
-    Input/output handling
+Input/output handling
