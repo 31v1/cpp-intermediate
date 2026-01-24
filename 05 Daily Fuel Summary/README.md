@@ -29,5 +29,5 @@ Loops
 
 Basic statistics (sum, average, max)
 
-    Output formatting
+Output formatting
 
