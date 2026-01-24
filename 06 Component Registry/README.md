@@ -1,11 +1,14 @@
 🧊 Polar Aerospace Operations Base — Inventory Control Protocol
+--
 
 Every component in the facility has an ID and a name. Ursov must maintain a registry to keep track of all parts and ensure they are sorted for quick retrieval.
 
-🎯 Objective  
+🎯 Objective
+--
 Store components in a struct and sort them by ID.
 
 🧩 Requirements
+--
 
 * Define a struct with fields for component ID and name.
 
@@ -16,6 +19,7 @@ Store components in a struct and sort them by ID.
 * Display the sorted list.
 
 🛠️ Concepts Practiced
+--
 
 * Structs
 
