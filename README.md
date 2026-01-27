@@ -31,6 +31,8 @@ All essential for maintaining operations under extreme Arctic conditions.
 
 ## 🧊🐻 Exercises Overview
 
+## Exercises Overview | # | Title | Focus Area | |----|--------------------------------|-----------------------------| | 1 | Sensor Average Calculator | Arrays, functions | | 2 | Maximum Pressure Detector | Search, statistics | | 3 | Polar Access Code Validator | Strings, validation | | 4 | Communication Log Repeater | Loops, functions | | 5 | Daily Fuel Summary | Arrays, statistics | | 6 | Component Registry | Structs, sorting | | 7 | Inventory Search System | Search, modular design | | 8 | Data Sanitization Pipeline | Validation, multi-step | | 9 | Conveyor Speed Classification | Classification, conditions | | 10 | Operator Menu Console | Menus, switch statements | | 11 | Telemetry Stream Merger | Arrays, merging | | 12 | Temperature Sorting Unit | Sorting algorithms | | 13 | Mission Checklist Verifier | Validation, arrays | | 14 | Module Statistics Dashboard | Statistics, modular design | | 15 | Polar Operations Monitoring | Integration project |
+
 1. **Sensor Average Calculator** — Compute the average of 10 temperature readings.  
 2. **Maximum Pressure Detector** — Find the highest pressure value and its index.  
 3. **Polar Access Code Validator** — Validate a 5‑character access code starting with `"BX-"`.  
