@@ -17,7 +17,7 @@ int main () {
         }
   }
   cout <<"The maximum pressure is: "<< pressureValue 
-  << " on index: " << maxIndex << endl;
+  << "kPa on index: " << maxIndex << endl;
 
 return 0;
 }
