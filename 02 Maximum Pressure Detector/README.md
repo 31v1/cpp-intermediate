@@ -2,8 +2,8 @@
 
 🧊 **Polar Aerospace Operations Base — Pressure Integrity Check**
 
-During routine maintenance, Belyy Ursov must verify that the pressure sensors inside the compression chamber are functioning correctly.  
-To do this, she analyzes a batch of recorded pressure values and identifies the highest reading.
+During scheduled maintenance, Belyy Ursov is tasked with verifying the integrity of the compression chamber’s pressure sensors.
+Her mission is to analyze a batch of recorded pressure values and identify the highest reading to ensure the system remains within safe operational limits.
 
 ## 🎯 Objective
 Determine the **maximum pressure value** in an array and report its **index**.
